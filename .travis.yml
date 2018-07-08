@@ -6,5 +6,5 @@ addons: # ensure that Travis-CI provisions a DB for our test:
 env:
   - MIX_ENV=test
 script: # run the tests:
-  - mix test
+  - mix coveralls.travis
 
