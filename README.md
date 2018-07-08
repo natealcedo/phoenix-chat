@@ -1,4 +1,4 @@
-# Chat
+# Chat [![Build Status](https://travis-ci.org/natealcedo/phoenix-chat.svg?branch=master)](https://travis-ci.org/natealcedo/phoenix-chat) [![Coverage Status](https://coveralls.io/repos/github/natealcedo/phoenix-chat/badge.svg?branch=master)](https://coveralls.io/github/natealcedo/phoenix-chat?branch=master)
 
 To start your Phoenix server:
 
